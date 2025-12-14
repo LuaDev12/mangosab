@@ -1,0 +1,4 @@
+print ("🥭 Mango Hub Steal A Brainrot 🥭")
+print ("🥭 Mango Hub Loader 1.0 🥭")
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/c4281c3937ebd537cb9e860182e41141.lua"))()
+print ("🥭 Mango Hub Loaded! 🥭")
