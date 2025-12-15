@@ -1,6 +1,6 @@
--- Hack
-    print("We are hackers")
-    
+-- meme
+print("MANGO MANGO MANGO MANGO FUNK")
+
 -- NotificationSender
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "🥭 Mango Notification";
