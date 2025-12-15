@@ -3,8 +3,8 @@
     
 -- NotificationSender
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "💤 ZZZZ Notification";
-	Text = "✅ Script Success Fully Loaded.";
+	Title = "🥭 Mango Notification";
+	Text = "🥭 Mango Loader V.1.0";
 	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
 Duration = 15;
 
